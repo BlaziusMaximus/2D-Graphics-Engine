@@ -1,4 +1,5 @@
-# UNC COMP 475 - 2D Computer Graphics
+# 2D Computer Graphics Engine
+Course: COMP 475 at UNC Chapel Hill
 Semester: Fall 2020
 Professor: Mike Reed
 
@@ -58,5 +59,5 @@ Professor: Mike Reed
  - Radial Gradient is defined by a center, radius, and list of colors
  - Stroke is defined by two points, a width, and a cap type (butt, square, round)
 
-![Final Exam Stroke Drawing demonstration](readme_assets/final_stroke.png?raw=true)
 ![Final Exam Radial Shader demonstration](readme_assets/final_radial.png?raw=true)
+![Final Exam Stroke Drawing demonstration](readme_assets/final_stroke.png?raw=true)
